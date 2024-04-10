@@ -1,0 +1,14 @@
+.main {
+  margin: auto;
+  width: 80%;
+  height: 80%;
+  margin-top: 50px;
+  padding: 2.5rem;
+}
+.buttonColor {
+  background-color: rgba(248, 184, 208, 1) !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.buttonColor:hover {
+  background-color: rgba(234, 75, 139, 1) !important;
+}
